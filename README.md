@@ -20,7 +20,7 @@
 ### 🚀 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,sklearn,linux,docker,git,github,vscode,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,sklearn,linux,docker,git,github,vscode,PowerBI,html,css" />
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
