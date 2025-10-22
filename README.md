@@ -10,8 +10,8 @@
 
 - 🎓 **Aspiring AI/ML Engineer & Decision Scientist**  
 - 👀 Interests: **Cricket 🏏, Movies 🎬, Reading Books 📚**  
-- 🌱 Currently learning **Generative AI & MLOps (Docker + Linux)**  
-- 💬 Ask me about **Python, SQL, NLP, Data Science, or Streamlit**  
+- 🌱 Currently learning **Generative AI & MLOps**  
+- 💬 Ask me about **Python, SQL, NLP, Deep Learning, Data Science, or Streamlit**  
 - 📫 Reach me at **[veeravallisarath024@gmail.com](mailto:veeravallisarath024@gmail.com)**  
 - ⚡ **Fun fact:** I make data talk — and I love coffee ☕  
 
